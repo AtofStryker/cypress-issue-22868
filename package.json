@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/AtofStryker/cypress-issue-22868#readme",
   "dependencies": {
-    "cypress": "10.3.1"
+    "cypress": "9.7.0"
   }
 }
